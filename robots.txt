@@ -12,5 +12,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: http://flysong.info/sitemap.xml
-Sitemap: http://flysong.info/baidusitemap.xml
+Sitemap: http://guangfei.win/sitemap.xml
+Sitemap: http://www.guangfei.win/sitemap.xml
